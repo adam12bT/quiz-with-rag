@@ -1,0 +1,19 @@
+1|What is the main function of the transport layer? | A) Communication between hosts | B) Communication between processes | C) Communication within a host | D) Communication between applications | B
+
+2|Which of the following is an example of a connectionless transport protocol? | A) TCP | B) UDP | C) ICMP | D) FTP | B
+
+3|In the analogy provided, who represents the demultiplexing role in Ann's house? | A) The postal service | B) Ann and Bill | C) The kids sending letters | D) The kids receiving letters | B
+
+4|Which of the following is a principal Internet transport protocol? | A) SMTP | B) FTP | C) UDP | D) TCP | D
+
+5|What is the role of multiplexing in the transport layer? | A) Sending multiple segments concurrently over the same connection | B) Combining multiple connections into one segment | C) Demultiplexing messages from different applications | D) Relying on the physical layer for data transmission | A
+
+6|Which of the following is not a part of the transport service and protocol in the transport layer? | A) Providing logical communication between application processes | B) Enhancing network layer services | C) Relaying data through network devices | D) Managing flow control and reliability | C
+
+7|What does the sender do when it receives an application message at the transport layer in a TCP connection? | A) It determines segment header fields values and creates a segment | B) It extracts the application-layer message and checks header values | C) It receives the segment from IP and demultiplexes the message up to the application via socket | D) It sends the application-layer message directly to the receiver's application without any processing | A
+
+8|What does the receiver do with an incoming TCP segment? | A) It creates a segment and passes it back to the sender | B) It extracts the application-layer message and checks header values | C) It demultiplexes the message up to the application via socket | D) It discards the incoming segment | C
+
+9|What is the role of the transport layer in a home network? | A) Communication between hosts | B) Communication within a host | C) Providing logical communication between application processes running on different hosts | D) Managing flow control and reliability in packet transmission | C
+
+10|Which of the following is not a part of the Transport Layer Actions? | A) Sending an application message as a segment to IP | B) Receiving a segment from IP | C) Determining segment header fields values | D) Demultiplexing the received message up to the application via socket | A

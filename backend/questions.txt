@@ -1,0 +1,10 @@
+1|Which protocol is used for data communication between a server and a client over the internet?|A) SMTP|B) FTP|C) HTTP|D) IMAP|C
+2|Which OSI layer is responsible for end-to-end delivery of messages?|A) Network Layer|B) Transport Layer|C) Session Layer|D) Presentation Layer|B
+3|What does the acronym IP stand for in computer networking?|A) Internetwork Packet|B) Interface Protocol|C) Internet Protocol|D) Intranet Procedure|C
+4|Which type of network topology connects all nodes directly to each other?|A) Star|B) Ring|C) Bus|D) Mesh|A
+5|What does the term 'subnet' in networking refer to?|A) A group of computers on a specific server|B) A part of an IP address space used for a network|C) The physical wires connecting devices|D) A specific type of router|B
+6|Which of the following is NOT one of the five basic network topologies?|A) Star|B) Ring|C) Bus|D) Mesh, Flexible Mesh|D
+7|What does the term 'latency' in networking mean?|A) The amount of data that can be transmitted at once|B) The time taken for a packet to travel from one device to another|C) The number of devices connected in a network|D) The speed at which data travels across a network|B
+8|Which layer of the OSI model is responsible for routing and forwarding packets?|A) Application Layer|B) Presentation Layer|C) Transport Layer|D) Network Layer|D
+9|What does 'DNS' stand for in networking?|A) Data Network Server|B) Domain Name System|C) Device Network Service|D) Dynamic Network Switch|B
+10|Which of the following is NOT a function of a router in a network?|A) Forwarding packets between networks|B) Providing a gateway for internet access|C) Switching data frames between ports|D) Acting as a firewall to protect the network|C
